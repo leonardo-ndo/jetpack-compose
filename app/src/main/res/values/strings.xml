@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jetpack Compose</string>
+    <string name="app_description">This is a demo app built with Jetpack Compose.</string>
+    <string name="add">Add</string>
+    <string name="fab_click_message">FAB was clicked</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
